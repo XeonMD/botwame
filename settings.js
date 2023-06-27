@@ -26,7 +26,7 @@ global.ownernomer = "62895383388866" //ur owner number2
 global.ownername = "Dream Guy Xeon" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: XeonMD" //ur github or insta name
-global.location = "Jakarta, Mizoram, Aizawl" //ur location
+global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = "Cheems Bot MD V8"
